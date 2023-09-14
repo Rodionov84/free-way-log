@@ -347,7 +347,7 @@ function pdfAndExcelDownloader() {
   }
 }
 
-//
+//  Создание PDF (из инета) 
 
 function generatePdf() {
   SpreadsheetApp.flush();
